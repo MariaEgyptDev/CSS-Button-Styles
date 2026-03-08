@@ -1,0 +1,48 @@
+body{
+  font-family: Arial;
+  text-align: center;
+  margin-top: 100px;
+}
+
+/* Button 1 */
+.btn1{
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+/* Button 2 Hover */
+.btn2{
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn2:hover{
+  background-color: darkgreen;
+}
+
+/* Button 3 Outline */
+.btn3{
+  background: none;
+  border: 2px solid red;
+  padding: 10px 20px;
+  color: red;
+}
+
+.btn3:hover{
+  background: red;
+  color: white;
+}
+
+/* Button 4 Glow */
+.btn4{
+  background: purple;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  box-shadow: 0 0 10px purple;
+}
