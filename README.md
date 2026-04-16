@@ -42,3 +42,5 @@ A collection of simple and clean CSS button styles for your projects.
 ---
 
 ⭐ Star this repo if you like it!
+---
+*Updated: April 2026*
